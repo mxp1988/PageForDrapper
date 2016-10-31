@@ -1,0 +1,5 @@
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDapper.Models\bin\Debug\mxp1988.PageForDapper.Models.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDapper.Models\bin\Debug\mxp1988.PageForDapper.Models.pdb
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDapper.Models\obj\Debug\mxp1988.PageForDapper.Models.csprojResolveAssemblyReference.cache
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDapper.Models\obj\Debug\mxp1988.PageForDapper.Models.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDapper.Models\obj\Debug\mxp1988.PageForDapper.Models.pdb

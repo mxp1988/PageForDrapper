@@ -1,0 +1,9 @@
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\UnitTestPageForDrapper.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\UnitTestPageForDrapper.pdb
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\mxp1988.PageForDapper.Models.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\mxp1988.PageForDapper.Models.pdb
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\obj\Debug\UnitTestPageForDapper.csprojResolveAssemblyReference.cache
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\obj\Debug\UnitTestPageForDrapper.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\obj\Debug\UnitTestPageForDrapper.pdb
