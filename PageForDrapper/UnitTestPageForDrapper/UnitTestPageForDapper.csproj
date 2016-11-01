@@ -58,6 +58,13 @@
       <Project>{A892ADD9-D45B-45D1-B0A1-626F4F2EAE09}</Project>
       <Name>mxp1988.PageForDapper.Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\mxp1988.PageForDrapper.Dao\mxp1988.PageForDapper.Dao.csproj">
+      <Project>{611D572A-D24D-4CB8-810D-7B6500639F38}</Project>
+      <Name>mxp1988.PageForDapper.Dao</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -7,3 +7,8 @@ D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\De
 D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\obj\Debug\UnitTestPageForDapper.csprojResolveAssemblyReference.cache
 D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\obj\Debug\UnitTestPageForDrapper.dll
 D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\obj\Debug\UnitTestPageForDrapper.pdb
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\mxp1988.PageForDapper.Dao.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\Dapper.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\mxp1988.PageForDapper.Dao.pdb
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\Dapper.xml
+D:\gitproject\github\PageForDrapper\PageForDrapper\UnitTestPageForDrapper\bin\Debug\UnitTestPageForDrapper.dll.config

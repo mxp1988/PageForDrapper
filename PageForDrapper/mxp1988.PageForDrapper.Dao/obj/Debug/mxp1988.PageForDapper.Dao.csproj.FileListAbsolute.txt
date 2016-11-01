@@ -1,0 +1,9 @@
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\bin\Debug\mxp1988.PageForDapper.Dao.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\bin\Debug\mxp1988.PageForDapper.Dao.pdb
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\bin\Debug\Dapper.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\bin\Debug\mxp1988.PageForDapper.Models.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\bin\Debug\mxp1988.PageForDapper.Models.pdb
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\bin\Debug\Dapper.xml
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\obj\Debug\mxp1988.PageForDapper.Dao.csprojResolveAssemblyReference.cache
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\obj\Debug\mxp1988.PageForDapper.Dao.dll
+D:\gitproject\github\PageForDrapper\PageForDrapper\mxp1988.PageForDrapper.Dao\obj\Debug\mxp1988.PageForDapper.Dao.pdb

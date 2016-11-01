@@ -15,7 +15,7 @@ namespace mxp1988.PageForDapper.Dao
 
         public StudentDao()
         {
-            connectStr= System.Configuration.ConfigurationManager.ConnectionStrings["sqlConnectionString"].ConnectionString;
+            connectStr= System.Configuration.ConfigurationManager.ConnectionStrings["ReportDataDB"].ConnectionString;
         }
         /// <summary>
         /// 批量插入学生
